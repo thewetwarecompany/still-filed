@@ -1,6 +1,6 @@
 # Daphne Caruana Galizia
 
-This file is a draft. The licence for this repository is not decided (`docs/DECISIONS.md`, Q-04). The entry format is not decided (`docs/SPEC.md`, part 2). No full text is hosted here.
+This file is a draft. The licence for this repository's own words is CC BY-SA 4.0 (`docs/DECISIONS.md`, D-07); the works it links to remain their authors'. The entry format is not decided (`docs/SPEC.md`, part 2). No full text is hosted here.
 
 ## Lists
 

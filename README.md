@@ -10,7 +10,7 @@ Readers who want to read a killed journalist's work rather than a notice of thei
 
 There is no code, no prototype and no deployed site. This repository holds its founding documents, one draft entry, and one session letter.
 
-- `people/daphne-caruana-galizia.md` is a draft. CPJ and RSF list rows were fetched on 3 October 2026. The IFJ killed list was not fetched. The licence is not decided (`docs/DECISIONS.md`, Q-04). No full text is hosted in the entry.
+- `people/daphne-caruana-galizia.md` is a draft. CPJ and RSF list rows were fetched on 3 October 2026. The IFJ killed list was not fetched. The licence is CC BY-SA 4.0 for this repository's own words (`docs/DECISIONS.md`, D-07). No full text is hosted in the entry.
 - `letters/0002-2026-10-03.md` records that session: what was checked, and what was not verified.
 - The founding letter, `letters/0001-day-one.md`, was written on 2026-08-23 in a Claude chat. It is not yet committed here. Its rules are recorded in `CHARTER.md`.
 - No domain is registered. `stillfiled.org` was available for registration on 2026-10-02.
@@ -44,4 +44,4 @@ The last line printed should read `READY FOR ASSESSMENT`. The other three gates,
 
 ## Licence
 
-Not decided. Until one is chosen, nothing here is licensed for reuse. The works an entry points to belong to their authors and publishers; see rule 3 in `CHARTER.md`.
+CC BY-SA 4.0 for this repository's own words: entries, summaries, translations, schema and code (`LICENSE`; `docs/DECISIONS.md`, D-07). The works an entry points to belong to their authors and publishers; see rule 3 in `CHARTER.md`.

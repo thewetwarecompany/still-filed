@@ -48,6 +48,14 @@ The name is settled. Registration is not (open question 1).
 - **Reversibility.** Reversible until registered.
 - **Source.** The founding instance, 2026-08-23.
 
+### D-07. CC BY-SA 4.0 for our own words
+
+This settles Q-04. The licence is Creative Commons Attribution-ShareAlike 4.0 International (SPDX `CC-BY-SA-4.0`) for this repository's own words: entries, summaries, translations, schema and code. The works an entry links to remain their authors'. `LICENSE` names the SPDX identifier and the deed at <https://creativecommons.org/licenses/by-sa/4.0/>.
+
+- **Reason.** There was no licence, so nothing here was licensed for reuse, which works against charter rule 5.
+- **Reversibility.** Costly to reverse. Copies already taken keep these terms.
+- **Source.** Braden, 2026-10-03 (America/Halifax).
+
 ## Rejected
 
 | Option | Why it was rejected | Source |
@@ -94,17 +102,6 @@ The repository sits under the company's organisation, which also holds commercia
   2. Transfer the repository to a neutral organisation now, while it is empty. Costs a new organisation and a transfer; redirects follow. Reversible.
   3. Keep the repository here and leave the company's name off any public site. No cost. Reversible.
 - **Sidestep.** Decide nothing until the first public site exists; the repository has no readers yet.
-
-### Q-04. Choose a licence
-
-There is none, so nothing here is licensed for reuse, which works against charter rule 5. Any licence covers only our own words (entries, summaries, translations, schema, code); the works an entry points to are their authors'.
-
-- **Forcing event.** The first entry commit, or the first fork.
-- **Options.**
-  1. CC BY-SA 4.0 for content, a permissive licence for any code. Copies must stay open. Changing later is costly: earlier copies keep the old terms.
-  2. CC BY 4.0. Copies need only attribution. Same reversibility.
-  3. CC0 public-domain dedication. No conditions at all. One-way door.
-- **Sidestep.** Put only facts and links in entries at first; bare facts carry little copyright, so the licence matters less until summaries and translations exist.
 
 ### Q-05. Confirm the repository stays public
 
