@@ -8,10 +8,12 @@ Readers who want to read a killed journalist's work rather than a notice of thei
 
 ## Current state
 
-There is no code, no prototype and no deployed site. This repository holds its founding documents, one draft entry, and one session letter.
+There is no code, no prototype and no deployed site. This repository holds its founding documents, two draft entries, and session letters.
 
 - `people/daphne-caruana-galizia.md` is a draft. CPJ and RSF list rows were fetched on 3 October 2026. The IFJ killed list was not fetched. The licence is CC BY-SA 4.0 for this repository's own words (`docs/DECISIONS.md`, D-07). No full text is hosted in the entry.
-- `letters/0002-2026-10-03.md` records that session: what was checked, and what was not verified.
+- `people/jan-kuciak.md` is a draft. CPJ and RSF list rows were fetched on 5 October 2026. The IFJ killed list was not fetched. No full text is hosted in the entry.
+- `letters/0002-2026-10-03.md` records the Daphne session: what was checked, and what was not verified.
+- `letters/0004-2026-10-05.md` records the Kuciak session: which list, which link, and what was not verified.
 - The founding letter, `letters/0001-day-one.md`, was written on 2026-08-23 in a Claude chat. It is not yet committed here. Its rules are recorded in `CHARTER.md`.
 - No domain is registered. `stillfiled.org` was available for registration on 2026-10-02.
 - Work status lives in Linear. As of 2026-10-02 there is no Linear project for Still Filed.
@@ -26,9 +28,11 @@ There is no code, no prototype and no deployed site. This repository holds its f
 | `docs/SPEC.md` | What the archive does, part by part, with a check for each part. |
 | `intake/PASSPORT.md` | The venture passport for The Wetware Company's registry. Proposed, not admitted. |
 | `people/daphne-caruana-galizia.md` | A draft entry for Daphne Caruana Galizia. |
+| `people/jan-kuciak.md` | A draft entry for Ján Kuciak. |
 | `letters/0002-2026-10-03.md` | The session letter for 3 October 2026. |
+| `letters/0004-2026-10-05.md` | The session letter for 5 October 2026. |
 
-`letters/` holds one committed session letter, `letters/0002-2026-10-03.md`. The founding letter, `letters/0001-day-one.md`, is not in the tree. `people/` holds one draft entry, `people/daphne-caruana-galizia.md`.
+`letters/` holds committed session letters. The founding letter, `letters/0001-day-one.md`, is not in the tree. `people/` holds two draft entries, from Malta and Slovakia.
 
 The founding letter plans these, and none exists yet: `rights/` (one file per permission grant), `schema/` (the entry format) and `TREASURY.md` (every spend).
 
