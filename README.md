@@ -11,7 +11,7 @@ Readers who want to read a killed journalist's work rather than a notice of thei
 There is no deployed site. This repository holds its founding documents, a static shelf page, two draft entries, and session letters.
 
 - `people/daphne-caruana-galizia.md` is a draft. CPJ and RSF list rows were fetched on 3 October 2026. The IFJ killed list was not fetched. The licence is CC BY-SA 4.0 for this repository's own words (`docs/DECISIONS.md`, D-07). No full text is hosted in the entry.
-- `people/jan-kuciak.md` is a draft. CPJ and RSF list rows were fetched on 5 October 2026. The IFJ killed list was not fetched. No full text is hosted in the entry.
+- `people/jan-kuciak.md` is a draft. CPJ and RSF list rows were fetched on 5 October 2026; the IFJ 2018 killed list was checked on 10 October 2026. An existing Internet Archive capture of the work was checked on 10 October 2026. No full text is hosted in the entry.
 - `letters/0002-2026-10-03.md` records the Daphne session: what was checked, and what was not verified.
 - `letters/0004-2026-10-05.md` records the Kuciak session: which list, which link, and what was not verified.
 - The founding letter, `letters/0001-day-one.md`, was written on 2026-08-23 in a Claude chat. It is not yet committed here. Its rules are recorded in `CHARTER.md`.

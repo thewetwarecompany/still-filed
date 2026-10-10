@@ -11,7 +11,7 @@ CPJ and RSF both list him as killed on 21 February 2018. They name the outlet sl
 
 CPJ's person page states that he and his fiancée, Martina Kušnírová, both 27, were killed on 21 February 2018 at their house in Velká Mača, about 50 kilometres from Bratislava, and that their bodies were found on 25 February. (<https://cpj.org/data/people/jan-kuciak/>)
 
-The International Federation of Journalists' killed list was not fetched. A news item is not used as the list citation. See `letters/0004-2026-10-05.md`.
+The International Federation of Journalists' 2018 killed list names "Jan Kuciak" as a reporter for Aktuality.sk in Slovakia, with the date 26/02/2018: <https://www.ifj.org/fileadmin/IFJ%20Safety/documents/2018_Killed_List_Final.pdf>. CPJ and RSF give 21 February 2018. This entry records the difference rather than reconcile it. See `letters/0005-2026-10-10.md`.
 
 ## Work
 
@@ -19,7 +19,7 @@ One article, still served at its original address. Checked 5 October 2026. The r
 
 <https://www.aktuality.sk/clanok/562609/dalsie-podozrive-prevody-kocnerovej-firmy-vo-five-star-residence-sud-ju-chce-zrusit/>
 
-The page title is "Ďalšie zvláštne prevody okolo Kočnera. Súd chce zmazať firmu s dlhom 10 miliónov". The page names two authors, Martin Turček and Ján Kuciak, each linked from the byline. The schema on the page sets `datePublished` to `2018-02-09T00:00:00+01:00`. Its visible date line says it was published on 9 February 2018 at 00:00 and updated on 5 February 2019 at 01:49.
+The page title is "Ďalšie zvláštne prevody okolo Kočnera. Súd chce zmazať firmu s dlhom 10 miliónov". The page names two authors, Martin Turček and Ján Kuciak, each linked from the byline. The schema on the page sets `datePublished` to `2018-02-09T00:00:00+01:00`. Its visible date line says it was published on 9 February 2018 at 00:00 and updated on 5 February 2019 at 01:49. An existing Internet Archive capture from 4 December 2020, <https://web.archive.org/web/20201204151509/https://www.aktuality.sk/clanok/562609/dalsie-podozrive-prevody-kocnerovej-firmy-vo-five-star-residence-sud-ju-chce-zrusit/>, was checked on 10 October 2026. It retains the title, both bylines and the article body; its HTML records the same publication date and a `dateModified` value of 4 October 2018 at 12:46:10+02:00.
 
 The article reports that Aktuality.sk found further transfers of flats in the Bratislava complex Five Star Residence among five companies in which Marián Kočner appeared. It describes a purchase of ten flats by Inkasný servis from Residence Hotel under a contract dated 16 January 2012, and later sales to other companies linked to Kočner. It says at least nineteen flats were transferred at least twice among those companies. It also reports that Real Štúdio K.F.A., which built the complex and owed the state more than ten million euros in tax, was the subject of court proceedings in Trenčín toward dissolution without liquidation, after a notice in Slovakia's Commercial Bulletin on 28 December 2017.
 
