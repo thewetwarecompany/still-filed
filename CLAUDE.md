@@ -18,3 +18,6 @@ Read on demand — do not import these into this file: `CHARTER.md` (the eight b
 10. **Leave a letter in `letters/` each session.** Plain facts for the next instance, not eloquence.
 11. **No secrets anywhere** — not in files, commits, Linear or chat.
 12. **Commands handed to a person** start with `cd` to an absolute Mac mini path, join lines with `&&`, use paste-safe characters only, and carry their own guards. The chassis `scripts/paste-check.mjs` enforces it.
+
+## Mandatory startup context
+Before answering project questions or making a plan, read CHARTER.md first, then README.md and docs/DECISIONS.md. For scoped implementation work, read docs/SPEC.md and the latest session letter required by the project's local rules. Charter precedence is absolute: CHARTER.md outranks these instructions and any Wetware chassis convention. Re-verify dated operational facts against their current source before relying on them.
